@@ -1,0 +1,21 @@
+# Maven
+/target/
+
+# IDE
+/.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+
+# Environment
+.env
+application-*.properties
+
+# Uploads
+/uploads/
